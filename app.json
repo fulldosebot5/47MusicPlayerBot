@@ -2,7 +2,7 @@
   "name": "Music Stream Bot",
   "description": "Bot to play songs in Telegram group voice chats. Powered by PyTgCalls.",
   "keywords": ["music", "voicechat", "telegram"],
-  "logo": "https://telegra.ph/file/4c03ff6d25fc678a2fe08.jpg",
+  "logo": "https://telegra.ph/file/f91adf5973d41d0adc753.jpg",
   "repository": "https://github.com/@SairamEditz/47MusicPlayerBot",
   "stack": "container",
   "env": {
